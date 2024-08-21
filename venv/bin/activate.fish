@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/emir/Documents/GitHub/tictactoe/venv"
+set -gx VIRTUAL_ENV "/home/emir/Documents/GitHub/tic-tac-toe/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

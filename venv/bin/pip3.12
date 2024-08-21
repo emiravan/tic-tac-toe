@@ -1,4 +1,4 @@
-#!/home/emir/Documents/GitHub/tictactoe/venv/bin/python3
+#!/home/emir/Documents/GitHub/tic-tac-toe/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
